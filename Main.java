@@ -27,8 +27,8 @@ public class Main extends Application {
 
   final Label message = new Label("");
   static String url = "jdbc:mysql://localhost:3306/boolauniversity?useSSL=false";
-  static String user = "ricky";
-  static String password = "legendary,12";
+  static String user = "";
+  static String password = "";
   static  TextField name = new TextField ();  
   static final PasswordField pb = new PasswordField();
 
